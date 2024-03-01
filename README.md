@@ -1,16 +1,3 @@
-# inklusiv
+# inclusiv ai
 
-Disabilities:
-adhd
-colorblind
-dyslexia
-
-Features:
-works with different languages
-zoom out zoom in
-report generation
-
-todo:
-general accessibility improvement and standards
-answer questions about the site
-give explainsite context about users question
+[Read the devpost here.]([url](https://devpost.com/software/inclusiv-ai)https://devpost.com/software/inclusiv-ai)
